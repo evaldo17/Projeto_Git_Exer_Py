@@ -1,2 +1,3 @@
-# Projeto_Git_Exer_C
-Estudando Exercicios em Linguagem C
+# Projeto_Git_Exer_Py
+Estudando Exercicios em Python
+
